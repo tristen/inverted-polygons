@@ -1,0 +1,18 @@
+{
+  "globals": {
+    "Blob": true,
+    "window": true
+  },
+  "parser": "babel-eslint",
+  "extends": [
+    "@mapbox/eslint-config-mapbox",
+    "@mapbox/eslint-config-mapbox/react",
+    "@mapbox/eslint-config-mapbox/import",
+    "@mapbox/eslint-config-mapbox/promise",
+    "prettier"
+  ],
+  "rules": {
+    "arrow-parens": ["error", "as-needed"],
+    "node/no-unsupported-features": 0
+  }
+}
