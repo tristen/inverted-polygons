@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/tristen/inverted-polygons/static/js/main.12091962.chunk.js",
+    "main.js.map": "/tristen/inverted-polygons/static/js/main.12091962.chunk.js.map",
+    "runtime~main.js": "/tristen/inverted-polygons/static/js/runtime~main.272274ee.js",
+    "runtime~main.js.map": "/tristen/inverted-polygons/static/js/runtime~main.272274ee.js.map",
+    "static/js/2.36fa26f9.chunk.js": "/tristen/inverted-polygons/static/js/2.36fa26f9.chunk.js",
+    "static/js/2.36fa26f9.chunk.js.map": "/tristen/inverted-polygons/static/js/2.36fa26f9.chunk.js.map",
+    "index.html": "/tristen/inverted-polygons/index.html",
+    "precache-manifest.fd8405baf66809d4f92a0c1b9df9ee29.js": "/tristen/inverted-polygons/precache-manifest.fd8405baf66809d4f92a0c1b9df9ee29.js",
+    "service-worker.js": "/tristen/inverted-polygons/service-worker.js"
+  }
+}
