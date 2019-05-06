@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.12091962.chunk.js",
-    "main.js.map": "/static/js/main.12091962.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.36fa26f9.chunk.js": "/static/js/2.36fa26f9.chunk.js",
-    "static/js/2.36fa26f9.chunk.js.map": "/static/js/2.36fa26f9.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.77a6c8d4d928b9e8e253c262f5559cd8.js": "/precache-manifest.77a6c8d4d928b9e8e253c262f5559cd8.js",
-    "service-worker.js": "/service-worker.js"
+    "main.js": "/inverted-polygons/static/js/main.12091962.chunk.js",
+    "main.js.map": "/inverted-polygons/static/js/main.12091962.chunk.js.map",
+    "runtime~main.js": "/inverted-polygons/static/js/runtime~main.02d1899b.js",
+    "runtime~main.js.map": "/inverted-polygons/static/js/runtime~main.02d1899b.js.map",
+    "static/js/2.36fa26f9.chunk.js": "/inverted-polygons/static/js/2.36fa26f9.chunk.js",
+    "static/js/2.36fa26f9.chunk.js.map": "/inverted-polygons/static/js/2.36fa26f9.chunk.js.map",
+    "index.html": "/inverted-polygons/index.html",
+    "precache-manifest.5ecbafaad19e8ddac0e50ee2c755f8d4.js": "/inverted-polygons/precache-manifest.5ecbafaad19e8ddac0e50ee2c755f8d4.js",
+    "service-worker.js": "/inverted-polygons/service-worker.js"
   }
 }
