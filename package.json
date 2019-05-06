@@ -28,7 +28,7 @@
   "bugs": {
     "url": "https://github.com/tristen/inverted-polygons/issues"
   },
-  "homepage": "http://tristen.ca",
+  "homepage": "http://tristen.ca/inverted-polygons",
   "dependencies": {
     "@mapbox/geojson-rewind": "^0.4.0",
     "@turf/bbox": "^6.0.1",
