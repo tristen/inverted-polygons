@@ -2,7 +2,7 @@ import React from 'react'
 import HTML5Backend from 'react-dnd-html5-backend'
 import { DragDropContext, DropTarget } from 'react-dnd'
 import { NativeTypes } from 'react-dnd-html5-backend'
-import { saveAs } from 'filesaver.js'
+import { saveAs } from 'file-saver'
 import invertPolygons from '../util/invert-polygons'
 import bbox from '@turf/bbox'
 
