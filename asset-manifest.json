@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/inverted-polygons/static/js/main.b88fbc83.chunk.js",
-    "main.js.map": "/inverted-polygons/static/js/main.b88fbc83.chunk.js.map",
+    "main.js": "/inverted-polygons/static/js/main.06bfb67c.chunk.js",
+    "main.js.map": "/inverted-polygons/static/js/main.06bfb67c.chunk.js.map",
     "runtime~main.js": "/inverted-polygons/static/js/runtime~main.02d1899b.js",
     "runtime~main.js.map": "/inverted-polygons/static/js/runtime~main.02d1899b.js.map",
     "static/js/2.f08508a1.chunk.js": "/inverted-polygons/static/js/2.f08508a1.chunk.js",
     "static/js/2.f08508a1.chunk.js.map": "/inverted-polygons/static/js/2.f08508a1.chunk.js.map",
     "index.html": "/inverted-polygons/index.html",
-    "precache-manifest.abea7bf5049926582b5f89433072210c.js": "/inverted-polygons/precache-manifest.abea7bf5049926582b5f89433072210c.js",
+    "precache-manifest.e7c31cd4f7717927023ab86193778745.js": "/inverted-polygons/precache-manifest.e7c31cd4f7717927023ab86193778745.js",
     "service-worker.js": "/inverted-polygons/service-worker.js"
   }
 }

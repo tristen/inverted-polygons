@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/inverted-polygons/precache-manifest.abea7bf5049926582b5f89433072210c.js"
+  "/inverted-polygons/precache-manifest.e7c31cd4f7717927023ab86193778745.js"
 );
 
 self.addEventListener('message', (event) => {
