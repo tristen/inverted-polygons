@@ -16,7 +16,7 @@ const root = {
 };
 
 function invertPolygons(geojson) {
-  const rewound = flatten.default(rewind(geojson));
+  const rewound = rewind(flatten.default(geojson));
 
   try {
     flatten.default(geojson);
