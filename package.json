@@ -51,7 +51,7 @@
     "husky": "^2.2.0",
     "lint-staged": "^8.1.6",
     "prettier": "^1.17.0",
-    "react-scripts": "^3.0.0"
+    "react-scripts": "^5.0.1"
   },
   "lint-staged": {
     "**/*.js": [
